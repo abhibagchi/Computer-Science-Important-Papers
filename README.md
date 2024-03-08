@@ -1,4 +1,6 @@
 Storagesystems
+
+
 Haystack (https://lnkd.in/gSZYcmmB)
 f4: Facebook’s Warm BLOB Storage System (https://lnkd.in/gMEfTpAh)
 The Hadoop Distributed File System (https://lnkd.in/gSUqafDg)
